@@ -1,0 +1,16 @@
+html {
+  background-color: #dbd6cf;
+}
+
+header {
+  background-color: #79756f;
+}
+
+li {
+  display: inline-block;
+  border-radius: 10px;
+  text-align: center;
+  backgroud-color: #713837;
+  padding: .6em, .5em .75em;
+  margin: .3em;
+}
