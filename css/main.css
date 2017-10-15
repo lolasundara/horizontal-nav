@@ -3,10 +3,6 @@ html {
   box-sizing:
 }
 
-body {
-
-}
-
 header {
   background-color: #79756f;
 }
@@ -17,7 +13,7 @@ h1 {
   text-align: center;
 }
 
-li {
+body {
   display: inline-block;
   border-radius: 10px;
   text-align: center;
