@@ -13,6 +13,13 @@ h1 {
   text-align: center;
 }
 
+nav {
+  display: inline;
+  color: #713837;
+  font-family: sans-serif;
+  text-align: center;
+}
+
 body {
   display: inline-block;
   border-radius: 10px;
