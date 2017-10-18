@@ -4,11 +4,11 @@ html {
 }
 
 header {
-  background-color: #79756f
+  background-color: #79756f;
 }
 
 h1 {
-  font-family: "Bevan", cursive;
+  font-family: 'Bevan', cursive;
   color: #fff;
   text-align: center;
 }
