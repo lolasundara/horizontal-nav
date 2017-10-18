@@ -4,7 +4,9 @@ html {
 }
 
 header {
-  background-color: #79756f;
+  background-color: #79756f
+  margin: auto;
+  padding: inherit;
 }
 
 h1 {
