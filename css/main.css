@@ -27,6 +27,7 @@ nav {
   color: #713837;
   font-family: sans-serif;
   text-align: center;
+  list-style-type: none;
 }
 
 body {
