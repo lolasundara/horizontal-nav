@@ -3,8 +3,13 @@ html {
   box-sizing: border-box;
 }
 
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
 header {
   background-color: #79756f;
+  vertical-align: middle;
 }
 
 h1 {
